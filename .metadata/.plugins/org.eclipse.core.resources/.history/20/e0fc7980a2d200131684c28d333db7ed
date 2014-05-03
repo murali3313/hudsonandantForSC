@@ -1,0 +1,10 @@
+
+public class Person {
+
+	public String GetMessage(String messsage){
+		
+		return "Hello "+ messsage;
+	}
+	
+	
+}

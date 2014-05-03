@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<server port="8080">
+  <module context="HudsonAndAnt" name="HudsonAndAnt" path="C:/JavaApps/ProjToExploreHudsonAndAnt/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/HudsonAndAnt" type="j2ee"/>
+</server>

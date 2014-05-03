@@ -1,0 +1,11 @@
+import junit.framework.TestCase;
+
+
+public class PersonTests extends TestCase {
+
+	
+	public void ShouldWelcomePersonByName(){
+		Person p =new Person();
+	}
+	
+}

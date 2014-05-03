@@ -1,0 +1,5 @@
+INDEX VERSION 1.126+C:\JavaApps\ProjToExploreHudsonAndAnt\.metadata\.plugins\org.eclipse.jdt.core
+699247343.index
+1832013128.index
+2486054240.index
+2247037875.index
