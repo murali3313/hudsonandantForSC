@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="PersonTests" tests="2" failures="0" errors="0" timestamp="2014-05-06T10:47:13" hostname="murali" time="0.002">
+<testsuite name="PersonTests" tests="2" failures="0" errors="0" timestamp="2014-05-06T11:16:48" hostname="murali" time="0.012">
   <properties/>
   <testcase name="ShouldWelcomePersonByName1" classname="PersonTests" time="0.002"/>
   <testcase name="ShouldWelcomePersonByName" classname="PersonTests" time="0.0"/>
