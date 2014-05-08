@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd version="4.3" timestamp="2014-05-08T11:09:58.370">
+<file name="C:\JavaApps\hudsonandantForSC\src\main\java\Person.java">
+<violation beginline="5" endline="5" begincolumn="25" endcolumn="26" rule="EmptyIfStmt" ruleset="Basic Rules" class="Person" method="WelcomPersonByName" externalInfoUrl="http://pmd.sourceforge.net/rules/basic.html#EmptyIfStmt" priority="3">
+Avoid empty if statements
+</violation>
+<violation beginline="5" endline="5" begincolumn="20" endcolumn="23" rule="UnconditionalIfStatement" ruleset="Basic Rules" class="Person" method="WelcomPersonByName" externalInfoUrl="http://pmd.sourceforge.net/rules/basic.html#UnconditionalIfStatement" priority="3">
+Do not use if statements that are always true or always false
+</violation>
+</file>
+</pmd>
